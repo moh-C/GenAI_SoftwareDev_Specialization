@@ -1,0 +1,1 @@
+docker run -it --rm -p 8888:8888 -p 5000:5000 -v .:/app jupyter-flask
